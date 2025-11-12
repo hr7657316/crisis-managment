@@ -1,4 +1,5 @@
-# GeoTrace
+# crisis-managment
+
 
 Disaster response is hindered by poor communication and difficulty locating affected people. due to latencies in response time there are  death of many civilians during crisis. we aim to change that.
 
